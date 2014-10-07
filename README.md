@@ -17,7 +17,7 @@ Instructions on running the project: navigate to the project from a terminal win
 
 Currently, if the user clicks on the button, the app calls a functiom bound to the scope within the controller through the directive ng-click. 
 
-What we want is a custom, reuseable directive with its own scope that calls a function from the html in the controller. Also, it should call the function <b>additionalFunction</b>.
+What we want is a custom, reuseable directive with its own scope that calls a function from the html in the controller. Also, it should call the function <b>additionalFunction</b>, also in the controller.
 
 
 <b>Bonus:</b> Hide the button once it has been clicked.
