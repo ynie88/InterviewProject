@@ -10,8 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.1",
-    "gulp-compass": "^1.3.1",
-    "gulp-concat": "^2.2.0",
     "gulp-connect": "latest"
   }
 }
