@@ -3,6 +3,11 @@
  */
 var appDirective = angular.module('app.directives',[]);
 
-appDirective.directive('clickFunction',function(){
+appDirective.directive('buttonClick',function(){
+  return{
+    restrict:'A',
+    link:function(){
 
+    }
+  }
 });

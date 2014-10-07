@@ -7,6 +7,9 @@ app.controller('appCtr',function($scope){
   $scope.text="some Text";
   $scope.clickFunc = function(){
     $scope.text="Button Clicked";
-  }
+  };
 
+  $scope.additionalFunction = function(){
+    console.log('Additional Function Called');
+  }
 });
