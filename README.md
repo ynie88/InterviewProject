@@ -11,7 +11,7 @@ If it's divisible by 5, print "<b>Buzz</b>" on the console.
 
 Finally, if it's divisible by both 3 and 5 then it'll print "<b>FizzBuzz</b>" on the console.
 
-<b>Excercise 2</b>
+<h2>Excercise 2</h2>
 
 Instructions on running the project: navigate to the project from a terminal window, and type in "<b>gulp connect</b>" to run the project. Then open the project from a browser at <a href="http://localhost:8005">http://localhost:8005</a>. 
 
